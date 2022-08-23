@@ -1,8 +1,8 @@
 PERKENALKAN DIRI ANDA (NAMA-LOKASI):
+<<<<<<< HEAD
 wiku hermawan - kab. tasikmalaya
 angga dwi kurniawan - jakarta
 muh. farhan abyyu - palopo
-
-
-
 yohanes fransisko sinaga - bandung
+wiku hermawan - tasikmalaya
+xxx - Yogyakarta
