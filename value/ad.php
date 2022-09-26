@@ -1,0 +1,1 @@
+<!-- pertama kali ku bilang -->
